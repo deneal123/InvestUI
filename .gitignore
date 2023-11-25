@@ -1,0 +1,17 @@
+# IDE
+.idea
+
+# Python
+venv
+__pycache__
+build
+
+# CUDNN для windows
+cudnn_windows
+
+# Установщик и логи
+setup.log
+logs
+
+# Файл темы
+saved_theme.txt
